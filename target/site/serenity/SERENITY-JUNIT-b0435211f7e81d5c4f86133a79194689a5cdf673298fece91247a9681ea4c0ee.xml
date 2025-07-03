@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Funcionalidad de registro" skipped="0" tests="1" time="11.79" timestamp="2025-07-01 05:03:52"><testcase name="Registro de un usuario nuevo, verificación y eliminación de la cuenta"/></testsuite>

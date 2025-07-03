@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Prevención de Cuentas Duplicadas" skipped="0" tests="1" time="5.82" timestamp="2025-07-02 06:11:38"><testcase name="Intento de registro con un correo electrónico ya registrado"/></testsuite>
