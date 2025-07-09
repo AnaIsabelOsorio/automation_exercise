@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Funcionalidad de registro" skipped="0" tests="1" time="1.0" timestamp="2025-07-09 06:00:10"><testcase name="Registro de un usuario nuevo y eliminación de la cuenta"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by [SLIDER_HOME_PAGE located with: //*[@id=&quot;slider&quot;]]" type="java.lang.AssertionError">
+Expected: an element that is visible
+     but: no matching element found by [SLIDER_HOME_PAGE located with: //*[@id="slider"]]</failure><system-err>
+Expected: an element that is visible
+     but: no matching element found by [SLIDER_HOME_PAGE located with: //*[@id="slider"]]&#13;
+co.edu.udea.calidadv.FleetGuard360.stepdefinitions.CommonSteps.queElUsuarioSeEncuentraEnLaPaginaDeInicioDeAutomationExercise(CommonSteps.java:29)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>

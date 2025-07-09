@@ -1,6 +1,6 @@
-#Author: Anais
-  #Language: en
-  #Caso de prueba 9: Buscar producto
+#Author: Anais - Jhon
+  #Language: es
+  #Caso de prueba 3: Buscar producto
 
   Feature: Búsqueda de Productos
   Como un usuario de Automation Exercise

@@ -1,6 +1,6 @@
-  #Author: Anais
-    #Language: en
-    #Caso de prueba 1: Registrar usuario
+  #Author: Anais - Jhon
+    #Language: es
+    #Caso de prueba 2: Registrar usuario existente
 
   Feature: Prevención de Cuentas Duplicadas
   Como un usuario de Automation Exercise

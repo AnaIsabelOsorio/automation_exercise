@@ -1,5 +1,5 @@
-  #Author: Anais
-    #Language: en
+  #Author: Anais - Jhon
+    #Language: es
     #Caso de prueba 1: Registrar usuario
 
   Feature: Funcionalidad de registro
